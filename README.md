@@ -1,5 +1,5 @@
 <h1 align="center">
-    <a href=""><img alt="Logo Podcastr" title="Podcastr" src="public/logo.svg" /></a>
+    <a href="https://podcastr-paulomvrech.vercel.app/"><img alt="Logo Podcastr" title="Podcastr" src="public/logo.svg" /></a>
 </h1>
 
 ## 💻 Sobre o projeto
@@ -7,7 +7,7 @@ O <strong>Podcastr</strong> é uma aplicação desenvolvida para ouvir podcasts.
 
 Este é um projeto desenvolvido durante a **[Next Level Week](https://nextlevelweek.com/)** (NLW#5), realizada pela **[@Rocketseat](https://github.com/Rocketseat)** durante os dias 19 a 25 de Abril de 2021.
 
-Realizei o deploy deste projeto na Vercel, [clique aqui]() para conferir.
+Realizei o deploy deste projeto na Vercel, [clique aqui](https://podcastr-paulomvrech.vercel.app/) para conferir.
 
 ---
 
